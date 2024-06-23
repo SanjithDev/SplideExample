@@ -36,6 +36,6 @@
     <img src="./image3.jpg" alt="Slide 3" />
   </SplideSlide>
 </Splide>
-
+```
 
 # Step 4: Ensure to specify the correct image source directory.
