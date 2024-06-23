@@ -38,4 +38,4 @@
 </Splide>
 ```
 
-# Step 4: Ensure to specify the correct image source directory.
+# Step 4 : Ensure to specify the correct image source directory.
