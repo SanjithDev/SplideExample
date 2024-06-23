@@ -1,11 +1,11 @@
 # Step 1 : Install Required Packages inside Existing React App
 
->> `npm install @splidejs/react-splide`
+`npm install @splidejs/react-splide`
 
 # Step 2 : Import Splide packages into your Component.
 
->> `import { Splide, SplideSlide } from '@splidejs/react-splide';
->> import '@splidejs/splide/dist/css/splide.min.css';`
+`import { Splide, SplideSlide } from '@splidejs/react-splide';
+import '@splidejs/splide/dist/css/splide.min.css';`
 
 # Step 3 : Customize the code as you wish!
 
