@@ -9,31 +9,33 @@
 
 # Step 3 : Customize the code as you wish!
 
->> `<Splide
-        options={{
-          heightRatio: 0.35,
-          type: 'loop',
-          perPage: 1,
-          perMove: 1,
-          focus  : 'center',
-          autoplay: true,
-          autoScroll: {
-            speed: 1,
-          },
-          interval: 2500
-        }}
-      >
-        <SplideSlide>
-          <img src="./image1.jpg" alt="Slide 1" />
-        </SplideSlide>
+```jsx
+<Splide
+  options={{
+    heightRatio: 0.35,
+    type: 'loop',
+    perPage: 1,
+    perMove: 1,
+    focus: 'center',
+    autoplay: true,
+    autoScroll: {
+      speed: 1,
+    },
+    interval: 2500
+  }}
+>
+  <SplideSlide>
+    <img src="./image1.jpg" alt="Slide 1" />
+  </SplideSlide>
 
-        <SplideSlide>
-          <img src="./image2.jpg" alt="Slide 2" />
-        </SplideSlide>
+  <SplideSlide>
+    <img src="./image2.jpg" alt="Slide 2" />
+  </SplideSlide>
 
-        <SplideSlide>
-          <img src="./image3.jpg" alt="Slide 3" />
-        </SplideSlide>
-      </Splide>`
+  <SplideSlide>
+    <img src="./image3.jpg" alt="Slide 3" />
+  </SplideSlide>
+</Splide>
+
 
 # Step 4: Ensure to specify the correct image source directory.
