@@ -4,7 +4,7 @@
 
 # Step 2 : Import Splide packages into your Component.
 
-`import { Splide, SplideSlide } from '@splidejs/react-splide';`
+`import { Splide, SplideSlide } from '@splidejs/react-splide';`<br>
 `import '@splidejs/splide/dist/css/splide.min.css';`
 
 # Step 3 : Customize the code as you wish!
